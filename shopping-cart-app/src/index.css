@@ -1,0 +1,42 @@
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+body {
+  background-color: black;
+  color: rgb(164, 88, 7);
+}
+
+input {
+  margin: 10px;
+  padding: 5px;
+  border-radius: 4px;
+  border: 1px solid #7d2d2d;
+}
+
+button {
+  padding: 8px 12px;
+  margin: 5px;
+  border: none;
+  border-radius: 4px;
+  background-color: #642905;
+  color: rgb(1, 1, 1);
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #7e0a0a;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  padding: 10px;
+  margin: 5px 0;
+  background: #bfbc05;
+  border-radius: 4px;
+}
